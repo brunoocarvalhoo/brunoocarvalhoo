@@ -1,6 +1,6 @@
 ## Hi, My name is Bruno 👋
 
- Technology enthusiast and Ruby on Rails developer with 3 years of experience, I hold a degree as a Technician in Systems Analysis and Development, and I'm currently pursuing a bachelor's degree in Systems Analysis and Development.
+ Technology enthusiast and Ruby on Rails developer with 4 years of experience, I hold a degree as a Technician in Systems Analysis and Development, and I'm currently pursuing a bachelor's degree in Systems Analysis and Development.
  
 ##
 
